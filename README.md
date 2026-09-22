@@ -9,7 +9,7 @@
 <table border="0">
   <tr>
     <td width="65%" valign="top">
-      <h2>👨‍💻 About Me</h2>
+      <h2> About Me</h2>
       <p>
        Hi! I'm a student and a programmer.
 I enjoy tinkering with software development, 
@@ -36,7 +36,7 @@ I enjoy tinkering with software development,
 <div align="center">
 
   <br />
-<h3>📊 Grafik Aktivitas</h3>
+<h3> Grafik Aktivitas</h3>
   <!-- Github Streak Stats -->
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=repantrixve18&theme=react-dark&hide_border=true" alt="Github Streak Stats" />
 
