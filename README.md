@@ -1,20 +1,18 @@
 <div align="center">
 
-  <!-- Header Banner -->
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=180&section=header&text=Welcome%20to%20My%20Profile%20&fontSize=38&animation=fadeIn" width="100%"/>
 
 </div>
 
-<!-- Layout About Me + Kucing Samping -->
+
 <table border="0">
   <tr>
     <td width="65%" valign="top">
       <h2> About Me</h2>
       <p>
-       Hi! I'm a student and a programmer.
-I enjoy tinkering with software development, 
-        exploring new technologies, 
-        and gaming.
+      HI I'M SMK Student | Full-Stack Web Developer Exploring modern web technology 
+      & building real-world projects I-like-cat and gaming 
       </p>
       <p>
        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
