@@ -11,7 +11,7 @@
     <td width="65%" valign="top">
       <h2> About Me</h2>
       <p>
-      HI I'M SMK Student | Full-Stack Web Developer Exploring modern web technology 
+      HI I'M SMK Student | Web Developer Exploring modern web technology 
       & building real-world projects I-like-cat and gaming 
       </p>
       <p>
